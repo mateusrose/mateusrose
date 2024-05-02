@@ -6,7 +6,7 @@
 
 ![mateusrose's Stats](https://github-readme-stats.vercel.app/api?username=mateusrose&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![mateusrose's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateusrose&theme=radical&hide_border=true)
-![mateusrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrose&theme=radical&show_icons=true&hide_border=true&layout=compact)
+###![mateusrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrose&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 
 
