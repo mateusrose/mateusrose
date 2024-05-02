@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, pretty new here 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrose&hide_progress=true&theme=dracula)
 <!--
