@@ -1,6 +1,6 @@
 ### Hi there, pretty new here 👋
 
-<div style="text-align: right;">
+<div style="display: flex; alig-items: center">
 
 
 ![mateusrose's Stats](https://github-readme-stats.vercel.app/api?username=mateusrose&theme=radical&show_icons=true&hide_border=true&count_private=true)
