@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mateusrose=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusrose)](https://github.com/mateusrose/github-readme-stats)
+
+
 <!--
 **mateusrose/mateusrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
