@@ -4,6 +4,7 @@
 
 In the past, I crafted unique cocktails behind the bar, and now I bring that same creativity to my source code.
 
+
 ## Let's Connect
 Email: [pedrompmrosa@gmail.com](mailto:pedrompmrosa@gmail.com)
 
@@ -11,9 +12,11 @@ Portfolio: [Portfolio](https://mateusrosecode.netlify.app/)
 
 LinkedIn: [Mateus Rosa](https://www.linkedin.com/in/mateusrosecode/)
 
+
 ## Skills
 
-`React` `JavaScript` `MongoDB` `Express.js` `Node.js` `Python` `Next.js`
+`Java` `Spring Boot` `MVC` `PostgreSQL` `mySQL` `Quarkus` `OOP` `JDBC` `Maven` `Git` `.NET` `C#` `ASP.NET MVC` `Node.js` `React` `Javascript` `CSS`
+
 
 ## Metrics
 
