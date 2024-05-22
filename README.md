@@ -1,3 +1,28 @@
+
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Pedro%20Mateus%20Rosa&fontSize=70&fontColor=FFFFFF&color=0:8871e5,100:b678c4&stroke=b678c4)
+
+In the past, I crafted unique cocktails behind the bar, and now I bring that same creativity to my source code.
+
+### Let's Connect
+Email: [pedrompmrosa@gmail.com](mailto:pedrompmrosa@gmail.com)
+
+Portfolio: [Portfolio](https://mateusrosecode.netlify.app/)
+
+LinkedIn: [Mateus Rosa](https://www.linkedin.com/in/mateusrosecode/)
+
+### Skills
+
+`React` `JavaScript` `MongoDB` `Express.js` `Node.js` `Python` `Next.js`
+
+### Metrics
+
+![mateusrose's Stats](https://github-readme-stats.vercel.app/api?username=mateusrose&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![mateusrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrose&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+
+
+```
+
 ### Hi there, pretty new here 👋
 
 
@@ -11,7 +36,7 @@
 
 
 ![mateusrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrose&theme=radical&show_icons=true&hide_border=true&layout=compact)
-
+```
 
 
 
