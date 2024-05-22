@@ -3,22 +3,23 @@
 
 In the past, I crafted unique cocktails behind the bar, and now I bring that same creativity to my source code.
 
-### Let's Connect
+## Let's Connect
 Email: [pedrompmrosa@gmail.com](mailto:pedrompmrosa@gmail.com)
 
 Portfolio: [Portfolio](https://mateusrosecode.netlify.app/)
 
 LinkedIn: [Mateus Rosa](https://www.linkedin.com/in/mateusrosecode/)
 
-### Skills
+## Skills
 
 `React` `JavaScript` `MongoDB` `Express.js` `Node.js` `Python` `Next.js`
 
-### Metrics
+## Metrics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mateusrose&theme=radical&show_icons=true&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrose&theme=radical&show_icons=true&hide_border=true&layout=compact">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusrose&theme=radical&hide_border=true">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrose&theme=radical&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 
