@@ -1,6 +1,6 @@
 ### Hi there, pretty new here 👋
 
-<details>
+
   <summary><b> About Me</b></summary>
   
 
@@ -12,9 +12,6 @@
 
 ![mateusrose's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrose&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-
-
-</details>
 
 
 
