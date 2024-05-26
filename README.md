@@ -15,7 +15,7 @@ LinkedIn: [Mateus Rosa](https://www.linkedin.com/in/mateusrosecode/)
 
 ## Skills
 
-`Java` `Spring Boot` `MVC` `PostgreSQL` `mySQL` `Quarkus` `OOP` `JDBC` `Maven` `Git` `.NET` `C#` `ASP.NET MVC` `Node.js` `React` `Javascript` `CSS`
+`Java` `Spring Boot` `MVC` `PostgreSQL` `mySQL` `Quarkus` `OOP` `JDBC` `Maven` `Git` `.NET` `C#` `ASP.NET MVC` `Node.js` `React` `Javascript` `CSS` `Linux`
 
 
 ## Metrics
